@@ -1,0 +1,35 @@
+{
+    "parameters": {
+        "module_name": "Main",
+        "proc_name": "Process",
+        "tool_name": "Tool",
+        "workobj_name": "POZ"
+    },
+    "tcp_object": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "orientation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    },
+    "work_object": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "orientation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    },
+    "conversion": {
+        "arm_speed": 0.0
+    }
+}
