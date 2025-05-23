@@ -43,10 +43,6 @@ python app.py
    - Vyberte umiestnenie výstupu
    - Spustite konverziu
 
-## Licencia
-
-[TBD]
-
 ## Stav projektu
 
 Vo vývoji - Základná funkcionalita je implementovaná, aktívne sa pridávajú funkcie a vylepšenia.
